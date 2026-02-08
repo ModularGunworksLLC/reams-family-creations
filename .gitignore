@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Cursor / IDE
+.vscode/
+.idea/
+mcps/
+*.swp
+*.swo
+*~
+
+# Optional: keep assets folder but ignore temp/cache if you add any
+# *.tmp
+# *.cache
